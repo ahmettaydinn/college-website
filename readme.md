@@ -1,6 +1,24 @@
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmet-ayd%C4%B1n-2583b1199/" target="_blank"><img src="hello.png" alt="screenshot"></a>
+</p>
+
+
+
+
 # Project : College Website 
 
-## Description
+## Table of contents
+
+  - [Overview](#overview)
+  - [Project Skeleton](#project-skeleton)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+
+## Overview
 Project aims to create a responsive college website.
 
 ## Problem Statement
@@ -21,26 +39,16 @@ college-website(folder)
 ```
 
 
-## Expected Outcome
+## Screenshot
 <p align="center">
 <a href="https://bavi-boop.github.io/netflix-clone/"><img src="college.jpg" alt="screenshot" ></a>
 </p>
 
-## Live Website
+## Links
 
 <hr>
 <b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/college-website/">Live Website</a>
 <hr>
-
-### At the end of the project, following topics are to be covered;
-
-- HTML 
-
-- List Properties
-
-- Overflow Property-The float Property-Opacity / Transparency-Units in CSS
-
-- CSS Setting height and width-CSS Outline-CSS Combinators
 
 
 ### At the end of the project, I am able to;
@@ -51,17 +59,48 @@ college-website(folder)
 
 
 	
+### Built with
+
+- Semantic HTML5 markup
+
+- CSS custom properties
+
+- Flexbox
+
+- Mobile-first workflow
+
+- [Styled Components](https://styled-components.com/) - For styles
+	
+- HTML Forms-Input Types 
+
+- HTML Form Elements
+
+- CSS Colors-Border Properties
+
+- CSS Margins-Padding
+
+- CSS Properties for Texts-Font Families-Links
+
+- List Properties
+
+- Overflow Property-The float Property-Opacity / Transparency-Units in CSS
+
+
+	
+-
+
 ## Notes
-<hr>
-<h3>Used in this project</h3>
 
-👉Flexbox, HTML tags, Comments, CSS styling, Positioning,etc.
+- You can use HTML,and CSS to complete this project.
+
+### Useful resources
+
+- [W3 Schoold](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
+- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
 
 
-<hr>
-<h3>How to Use the Project</h3>
-<span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/BAVI-BOOP/tea-cozy-website'>My Docs</a>
-<br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
+## Author
 
-<center> ⌛ Happy Coding  ✍ </center>
+- Author - [Ahmet]
+
+<center> &#8987; Happy Coding  &#9997; </center>
