@@ -41,7 +41,7 @@ college-website(folder)
 
 ## Screenshot
 <p align="center">
-<a href="https://bavi-boop.github.io/netflix-clone/"><img src="college.jpg" alt="screenshot" ></a>
+<a href="https://bavi-boop.github.io/college-website/"><img src="college.jpg" alt="screenshot" ></a>
 </p>
 
 ## Links
