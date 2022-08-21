@@ -20,9 +20,11 @@ college-website(folder)
 |----images
 ```
 
-## Expected Outcome
 
-<a href="https://bavi-boop.github.io/college-website/"><img src="Project_003_.gif" alt="screenshot" width="600" height="500"></a>
+## Expected Outcome
+<p align="center">
+<a href="https://bavi-boop.github.io/netflix-clone/"><img src="college.jpg" alt="screenshot" ></a>
+</p>
 
 ## Live Website
 
